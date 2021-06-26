@@ -205,8 +205,6 @@ git clone https://github.com/INDOnimous/Card-Number
 mv -v /data/data/com.termux/files/home/TermuxSetup/Card-Number /data/data/com.termux/files/home
 git clone https://github.com/mbest99/gametool
 mv -v /data/data/com.termux/files/home/TermuxSetup/gametool /data/data/com.termux/files/home
-git clone https://github.com/thelinuxchoice/blackeye
-mv -v /data/data/com.termux/files/home/TermuxSetup/blackeye /data/data/com.termux/files/home
 git clone https://github.com/AngelSecurityTeam/GatheTOOL
 mv -v /data/data/com.termux/files/home/TermuxSetup/GatheTOOL /data/data/com.termux/files/home
 git clone https://github.com/bhikandeshmukh/MapEye
